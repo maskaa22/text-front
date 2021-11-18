@@ -1,0 +1,47 @@
+.bob {
+    padding: 0 15px;
+}
+.userList {
+    border: solid 1px white;
+    border-radius: 6px
+}
+.userList table{
+    border-collapse: collapse;
+    width: 900px;
+    height: 100%;
+    font: normal normal bold 13px/16px Helvetica;
+}
+
+.userList th{
+    padding: 10px;
+    background-color: white;
+    color: #a4a4b5;
+
+}
+.userList td{
+    padding: 10px;
+    color: #3F4254;
+}
+.userList tr{
+    background-color: #ebecf1;
+    border: solid 2px white;
+    text-align: justify;
+}
+.userList tr:hover td {
+    background: #dee1e7;
+}
+
+.updateUser {
+   display: none;
+    padding-left: 15px;
+}
+.bt-x {
+    background-color: white;
+    border: none;
+    color: #8a8c9b;
+    cursor: pointer;
+}
+.flex-up {
+    display: flex;
+    justify-content: space-between;
+}

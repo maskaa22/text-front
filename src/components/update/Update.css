@@ -1,0 +1,90 @@
+.newUser {
+    width: 380px;
+    height: 530px;
+    background-color: white;
+    border-radius: 6px;
+}
+.newUser input {
+    width: 350px;
+    height: 30px;
+    background: #F3F6F9;
+    border-radius: 6px;
+    border-color: #F3F6F9;
+    color: #8a8c9b;
+}
+.newUser select{
+    width: 358px;
+    height: 35px;
+    background: #F3F6F9;
+    border-radius: 6px;
+    border-color: #F3F6F9;
+    color: #8a8c9b;
+}
+.lb {
+    font: normal normal bold 16px/19px Helvetica;
+    color: #3F4254;
+}
+.conteiner {
+    padding: 10px;
+}
+.btn-crt {
+    background-color: #2E8FF0;
+    color: white;
+    border-color: #2E8FF0;
+    width: 120px;
+    height: 46px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.btn {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.error {
+    color: red;
+}
+.secses {
+    color: #46e835;
+}
+
+input, label{
+    display:block;
+}
+.createUser input {
+    width: 370px;
+    height: 30px;
+    background: #F3F6F9;
+    border-radius: 6px;
+    border-color: #F3F6F9;
+    color: #8a8c9b;
+}
+.lb-input {
+    font: normal normal normal 13px/16px Helvetica;
+    color: #3F4254;
+}
+.flex-btn {
+    padding: 30px 10px 10px 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.btn-crt {
+    background-color: #2E8FF0;
+    color: white;
+    border-color: #2E8FF0;
+    width: 120px;
+    height: 46px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.btn-crt-red {
+    background-color: #F44682;
+    color: white;
+    border-color: #F44682;
+    width: 120px;
+    height: 46px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
